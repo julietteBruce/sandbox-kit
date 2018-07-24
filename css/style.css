@@ -15,7 +15,9 @@ h3.text-muted a {text-decoration: none; color: #999999; }
 h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 
 img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
-		
+
+
+img.banner { margin-bottom: 30px;  width:1024px; height:278px; }
 /* Custom container */
 .container > hr { margin: 30px 0; }
 .container > hr.footer {margin-bottom: 15px; }
@@ -111,8 +113,4 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
 .links {
   font-family: 'Merriweather', Georgia, Time;
   font-size: 90%;
-}
-
-.table > tbody > tr > td {
-     vertical-align: middle;
 }
